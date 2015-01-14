@@ -5,6 +5,8 @@ MongoDB Scanner
 
 **This projecgt is a scanner to find mongodb with remote connection enabled, which is the default setting, but risky as well.**
 
+Before running the script, make sure you have _PyMongo_ (http://api.mongodb.org/python/current/) module installed.
+
 There are two version of scanners:
 
 * mongoScan.py
